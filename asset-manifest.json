@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/oscarsotoo1/PrepaNetWebApp/static/css/main.073c9b0a.css",
+    "main.js": "/oscarsotoo1/PrepaNetWebApp/static/js/main.740130a4.js",
+    "static/js/787.c6006e9a.chunk.js": "/oscarsotoo1/PrepaNetWebApp/static/js/787.c6006e9a.chunk.js",
+    "static/media/logo.svg": "/oscarsotoo1/PrepaNetWebApp/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/oscarsotoo1/PrepaNetWebApp/index.html",
+    "main.073c9b0a.css.map": "/oscarsotoo1/PrepaNetWebApp/static/css/main.073c9b0a.css.map",
+    "main.740130a4.js.map": "/oscarsotoo1/PrepaNetWebApp/static/js/main.740130a4.js.map",
+    "787.c6006e9a.chunk.js.map": "/oscarsotoo1/PrepaNetWebApp/static/js/787.c6006e9a.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.740130a4.js"
+  ]
+}
